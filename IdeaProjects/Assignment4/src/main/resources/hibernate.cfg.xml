@@ -25,7 +25,6 @@
         <property name="format_sql">true</property>
 
         <!-- Entity mapping -->
-        <mapping class="org.example.entity.User"/>
 
 
     </session-factory>
